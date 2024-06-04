@@ -893,8 +893,8 @@ nav {
 .img_4{
     padding-top: 50px;
     /* width: 300px; */
-    width: 50%;
-    height: 50%;
+    width: 50vh;
+/*     height: 50vh; */
 }
 
 .main9 ul {
